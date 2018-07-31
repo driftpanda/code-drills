@@ -1,0 +1,32 @@
+a:hover {
+    color: aqua;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+}
+
+a:active {
+    color: tomato;
+}
+
+a:focus {
+    color: black;
+    background-color: antiquewhite;
+    font-size: 20px;
+    font-family: 'Gloria Hallelujah', cursive;
+}
+a:default {
+    color: brown;
+    background-color: yellow;
+}
+
+h1 {
+    background-color: blueviolet;
+}
+
+p{
+    background-color: violet;
+}
+
+h1 {
+    font-family: 'Gloria Hallelujah', cursive;
+}
